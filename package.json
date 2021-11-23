@@ -1,0 +1,18 @@
+{
+  "name": "gilded-rose-typescript",
+  "version": "1.0.0",
+  "description": "The Gilded Rose refactoring Kata",
+  "main": "fixture.js",
+  "scripts": {
+    "test": "vitest",
+    "fixture": "tsx fixture.ts"
+  },
+  "author": "Attila Kerekes",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "24.7.0",
+    "tsx": "4.20.6",
+    "typescript": "4.9.5",
+    "vitest": "3.2.4"
+  }
+}
