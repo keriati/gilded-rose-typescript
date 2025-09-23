@@ -7,7 +7,6 @@ import { Shop, Item } from '../gilded_rose';
 //         const items = gildedRose.updateQuality();
 //         expect(items[0].name).toEqual("fixme");
 //     });
-
 // });
 
 describe("testing function updateQuality", () => {
